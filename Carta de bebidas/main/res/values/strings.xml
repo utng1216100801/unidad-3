@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drinks</string>
+    <string name="select_image">Elige una imagen</string>
+    <string name="drink_name">Nombre de la bebida</string>
+    <string name="drink_description">Descripción de la bebida</string>
+    <string name="show">Mostrar</string>
+    <string name="upload">Guardar</string>
+</resources>
