@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="commentary">Comentario</string>
+    <string name="select_image">Elige una imagen</string>
+    <string name="upload">Guardar</string>
+    <string name="show">Mostrar</string>
+</resources>
